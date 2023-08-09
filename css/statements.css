@@ -1,0 +1,60 @@
+/* CSS for the container */
+.container1 {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 5px;
+  font-family: Arial, sans-serif;
+  color: white;
+}
+
+/* CSS for the task box */
+.task-box {
+  border: 3px solid #4CAF50;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+/* CSS for the task heading */
+.task-box h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+/* CSS for the task course information */
+.task-course {
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+/* CSS for the task posting time */
+.task-time {
+  font-size: 12px;
+  color: #888;
+  margin-bottom: 10px;
+}
+
+/* CSS for the task statement */
+.task-statement {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+/* CSS for the response button */
+.response-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+/* CSS for the response button hover effect */
+.response-button:hover {
+  background-color: #45a049;
+}
+
+

@@ -1,0 +1,53 @@
+/* roster.css */
+
+.button-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.update-button {
+  background-color: #3498db;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.link-button {
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+}
+
+table {
+   margin-left: 200px;
+    width: 70%;
+    border-collapse: collapse;
+    margin-top: 20px;
+
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+    color: #fff;
+  }
+  
+  th {
+    background-color: #4CAF50;
+    color: #fff;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  tr:hover {
+    background-color: #e6e6e6;
+  }
+  
